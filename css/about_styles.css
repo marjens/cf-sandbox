@@ -1,5 +1,11 @@
 * { box-sizing: border-box; }
 
+h1
+h2
+h3 {
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+}
+
 .container {
   margin: 0 auto;
   width: 80%;
@@ -24,6 +30,6 @@
 
 
 .main-text {
-  clear: both;
   padding-top: 60px;
+  clear: both;
 }
