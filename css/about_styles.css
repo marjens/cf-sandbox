@@ -7,6 +7,11 @@
 
 .header h1 {
   text-align: center;
+  margin-bottom: 40px;
+}
+
+.image img {
+  width: 100%
 }
 
 .column {
@@ -14,12 +19,11 @@
   display: inline-block;
   padding-right: 20px;
   float: left;
+  height: 80%;
 }
 
-.image img {
-  width: 100%
-}
 
 .main-text {
-  padding-top: 60px;
   clear: both;
+  padding-top: 60px;
+}
